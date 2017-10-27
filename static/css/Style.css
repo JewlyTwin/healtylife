@@ -1,0 +1,11 @@
+.text-white{
+    color : white;
+}
+.bg-pink{
+    background-color: #F5696C !important;
+}
+.font-footer{
+    font-size: 11px;
+    font-family: 'Akrobat';
+    src: url('../font/Akrobat-Black.otf');
+}
