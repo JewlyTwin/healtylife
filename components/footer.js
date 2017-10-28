@@ -2,8 +2,8 @@ import React from 'react'
 
 const footer = () => (
 
-<nav class="navbar bg-pink">
-  <span class="navbar-brand font-footer ml-auto">made by Team P'Joe & P'Bas</span>
+<nav className="navbar bg-pink">
+  <span className="navbar-brand font-head footer ml-auto">made by Team P'Joe & P'Bas</span>
 </nav>
 
 )
