@@ -30,6 +30,9 @@ const steambun = () => (
         7.คว่ำซาลาเปาผักของเราใส่จาน และผ่าสี่ หรือหั่นเป็นชิ้นตามชอบ <br/>
         8.ใส่น้ำซุปที่ตักออกมาเมื่อซักครู่ ใส่ลงไปในจานเสริฟทานคู่กันเป็นน้ำซุป<br/>
         </p>
+        <button type="button" class="btn ml-auto font-detail color-button">Back</button>
+        <br/>
+        <br/>
     </div>
 </div>
 <Footer/>
