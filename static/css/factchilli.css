@@ -1,0 +1,26 @@
+.head {
+    text-align: center;
+    font-size: 40px;
+    color: #726B67;
+    background-color: 
+}
+.pic {
+    text-align: center;
+}
+.p2 {
+    font-size: 25px;
+    color: #726B67;
+}
+.p1 {
+    font-size: 30px;
+    color: #726B67;
+}
+.right {
+    right: 0px;
+}
+.bg {
+    position: absolute;
+    left: 0px;
+    bottom: -1900px;
+    z-index: -1;
+}
