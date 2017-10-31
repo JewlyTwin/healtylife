@@ -30,8 +30,10 @@ const dolly = () => (
         <button type="button" class="btn ml-auto font-detail color-button">Back</button>
         <br/>
         <br/>
+        
     </div>
 </div>
+<img className = "bg-img" src = "../static/img/bgweb.png"/>
 <Footer/>
 </div>
 

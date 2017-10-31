@@ -31,6 +31,12 @@
 .color-button{
     background-color: #FFCAB0;
 }
+.bg-img{
+    position: absolute;
+    left: 0px;
+    top: 70px;
+    z-index: -1;
+}
 
 @media screen and (min-width: 320px) {
     .fit {
