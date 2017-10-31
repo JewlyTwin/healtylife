@@ -1,5 +1,6 @@
 import React from 'react'
 import Footer from '../components/footer'
+import Link from 'next/link'
 
 const steakchicken = () => (
 
@@ -29,7 +30,11 @@ const steakchicken = () => (
         3.เปิดฝาออกมาจะหอมโรสแมรี่ชัดเจน เนื้อไก่จะสุกนุ่มตัวมะเขือเทศและสับปะรดจะให้ความหวานอร่อยแบบธรรมชาติ หอมเครื่องเทศออริกาโน่และเด่นที่โรสแมรี่<br/>
         ทานคู่กับข้าวกล้อง และผักสลัด หรือหาผลไม้ไทยๆเช่นกล้วยน้ำว้ามาทานด้วยเพื่อเพิ่มคุณค่าทางอาหาร<br/>
         </p>
-        <button type="button" class="btn ml-auto font-detail color-button">Back</button>
+        <button type="button" class="btn ml-auto font-detail color-button">
+            <Link prefetch href="/">
+                <a>Back</a>
+            </Link>
+            </button>
         <br/>
         <br/>
     </div>
