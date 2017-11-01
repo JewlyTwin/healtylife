@@ -15,7 +15,7 @@ const kamin =()=> (
         <p className="p2">นอกจากนี้ ขมิ้นชัน ยังมีประโยชน์ที่โดดเด่นในเรื่องของการรักษาแผลในกระเพาะอาหาร ลำไส้ และระบบย่อยอาหารโดยรวม ช่วยบรรเทาอาการที่เกิดจากโรคกระเพาะอาหาร และกรดไหลย้อนได้ เช่น อาการปวด จุก เสียด แน่นท้อง และช่วยบรรเทาอาการท้องอืด ท้องเฟ้อ และอาการท้องเสียได้</p>
         <img className="bg" src='../static/img/bgweb.png' />
         <div className = "">
-        <button type="button" class="btn right font-detail color-button">Back</button><br/><br/>  
+        <button type="button" class="btn right Nithan color-button">Back</button><br/><br/>  
         </div>  
     </div>
 </div>

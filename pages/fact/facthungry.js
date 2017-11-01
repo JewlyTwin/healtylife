@@ -19,7 +19,7 @@ const hungry =()=> (
             <p className="p2">เคยไหมที่ทานอาหารบางประเภทแล้วรู้สึกว่าอิ่มได้ไม่นาน เผลอแปร้บเดียวก็หิวอีกแล้ว ความหิวแบบนี้ มีสาเหตุมาจากอาหารที่ทานเข้าไปนั้นทำให้หิวมากขึ้น และหิวเร็วขึ้น</p>
             <img className="bg" src='../static/img/bgweb.png' />
             <div className = "">
-            <button type="button" class="btn right font-detail color-button">Back</button><br/><br/>  
+            <button type="button" class="btn right Nithan color-button">Back</button><br/><br/>  
             </div>  
         </div>
     </div>

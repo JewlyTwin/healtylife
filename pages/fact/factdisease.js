@@ -21,7 +21,7 @@ const disease =()=> (
             <p className="p2">ลักษณะอาการที่เด่นชัดของโรคกรดไหลย้อนคือ มีอาการแสบจุกเสียดบริเวณใต้ลิ้นปี่หรือยอดอก หลังรับประทานอาหาร 30-60 นาที แน่นหน้าอกคล้ายกับอาหารไม่ย่อย อาจมีอาการคลื่นไส้ร่วมด้วยได้เช่นกัน เรอเปรี้ยว ขมคอ หายใจมีกลิ่น เสียงแหบ เจ็บคอ แสบลิ้น หรือไอ ซึ่งอาการเหล่านี้จะเป็นๆ หายๆ แต่จะเป็นมากกว่า 2 ครั้งต่อสัปดาห์ และแต่ละครั้งจะกินเวลาประมาณ 1-2 ชม.</p>
             <img className="bg" src='../static/img/bgweb.png' />
             <div className = "">
-            <button type="button" class="btn right font-detail color-button">Back</button><br/><br/>  
+            <button type="button" class="btn right Nithan color-button">Back</button><br/><br/>  
             </div>  
         </div>
     </div>

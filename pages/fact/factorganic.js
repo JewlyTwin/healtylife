@@ -19,7 +19,7 @@ const organic=()=> (
             <p className="p2">เมื่อสิ่งต่างๆ รวบตัว รวมถึงผลิตภัณฑ์ที่ใช้ มีผลกับร่างกายเรา การรับประทานหรือ ใช้ผลิตภัณฑ์ที่ผลิตในวิถีตามธรรมชาติ ก็เป็นทางเลือกนึงที่มีส่วนช่วยลดการใช้สารเคมีลง นอกจากนี้ผลิตภัณฑ์ออร์แกนิค ยังมีส่วนช่วยลดสารพิษตกค้างในร่างกาย ซึ่งสารพิษตกค้างเหล่านี้นี่เอง ที่เป็นสาเหตุหนึ่งของการเกิดโรค ของคนในยุคปัจจุบัน</p>
             <img className="bg" src='../static/img/bgweb.png' />
             <div className = "">
-            <button type="button" class="btn right font-detail color-button">Back</button><br/><br/>  
+            <button type="button" class="btn right Nithan color-button">Back</button><br/><br/>  
             </div>  
         </div>
     </div>
