@@ -1,6 +1,6 @@
 import React from 'react'
-import Footer from '../components/footer'
-import Link from 'next/link'
+import Footer from '../../components/footer'
+// import Link from 'next/link'
 
 const steakchicken = () => (
 
@@ -31,10 +31,8 @@ const steakchicken = () => (
         ทานคู่กับข้าวกล้อง และผักสลัด หรือหาผลไม้ไทยๆเช่นกล้วยน้ำว้ามาทานด้วยเพื่อเพิ่มคุณค่าทางอาหาร<br/>
         </p>
         <button type="button" class="btn ml-auto font-detail color-button">
-            <Link prefetch href="/">
-                <a>Back</a>
-            </Link>
-            </button>
+            back
+        </button>
         <br/>
         <br/>
     </div>

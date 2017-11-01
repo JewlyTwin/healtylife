@@ -1,5 +1,5 @@
 import React from 'react'
-import Footer from '../components/footer'
+import Footer from '../../components/footer'
 
 const bananatopping = () => (
 
@@ -24,12 +24,18 @@ const bananatopping = () => (
         ทาเนยถั่วที่กล้วยหอมและโรยธัญพืชที่ชอบ หั่นเสริฟเป็นชิ้นๆ น่ารักน่ารับประทาน แถมสุขภาพดีด้วย<br/>
         รสชาติหวานหอมจากกล้วยหอมกรอบมันจากธัญพืช เป็นอีกเมนูที่ทุกๆคนจะต้องชื่นชอบ <br/>
         </p>
+        
+        <Link prefetch href="/">
+        <a>
         <button type="button" class="btn ml-auto font-detail color-button">Back</button>
+        </a>
+        </Link>
+        
         <br/>
         <br/>
     </div>
 </div>
-<img className = "bg-img" src = "../static/img/bgweb.png"/>
+<img className = "bg" src = "../static/img/bgweb.png"/>
 <Footer/>
 </div>
 

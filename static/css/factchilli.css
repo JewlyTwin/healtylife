@@ -19,10 +19,11 @@
     right: 0px;
 }
 .bg {
-    position: absolute;
+    position: fixed;
     left: 0px;
-    bottom: -1900px;
+    bottom: 0px;
     z-index: -1;
+    width: 1500px;
 }
 .b1 {
     font-size: 27px;
